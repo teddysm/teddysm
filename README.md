@@ -5,7 +5,7 @@
 
 
 
--  [👨‍💻 All of my projects are available at](https://thanh-doan-portfolio.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a4c7f3cf-3481-4a5f-afa6-4fc538957426/deploy-status)](https://app.netlify.com/sites/thanh-doan-portfolio/deploys)
+-  [👨‍💻 All of my projects are available at](https://thanh-doan-portfolio.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a4c7f3cf-3481-4a5f-afa6-4fc538957426/deploy-status)]
 
 - 📫 Contact Me: **doan.teddy@gmail.com**
 
