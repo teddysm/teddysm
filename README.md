@@ -7,7 +7,6 @@
 
 -  [📄 Know about my experiences](https://drive.google.com/file/d/1CTiddYCasN0T9z1YEsBwx2L99oxiEUmS/view?usp=sharing)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddysm&title=Reviews,Commits,PullRequest,Repositories,Issues&theme=algolia&margin-w=20&no-frame=true&row=2&column=3&margin-h=15" alt="teddysm" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
